@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="boasVindas">Bem vindx !</string>
+    <string name="mostraResultado">Resultado</string>
+    <string name="number_choose">Insira um número</string>
+    <string name="soma">+</string>
+    <string name="subtrai">-</string>
+    <string name="multiplica">*</string>
+    <string name="divide">/</string>
+
+    <string name="mensagem_erro_resulado">Insira um valor válido!</string>
+</resources>
