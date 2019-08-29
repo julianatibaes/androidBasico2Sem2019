@@ -10,4 +10,14 @@ Todos os projetos de exemplo trabalhados na disciplina.
 - GroupButton
 - RadioButton
 
+## Fornecedores
+- Gerenciador de Layout (Linear Layout Vertical)
+- EditText (Personal name, e-mail, phone)
+- CheckBox
+- Switch
+- Button
+- Spinner
+- TextView
+- Intent (passado dados de String para outra tela)
+
 
