@@ -19,5 +19,6 @@ Todos os projetos de exemplo trabalhados na disciplina.
 - Spinner
 - TextView
 - Intent (passado dados de String para outra tela)
+- Intent (SMS, EMAIL, Telefonema, SITE)
 
 
