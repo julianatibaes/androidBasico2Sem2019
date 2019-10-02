@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fornecedores</string>
+    <string name="name">Contato</string>
+    <string name="email">E-mail (mail@mail.com)</string>
+    <string name="phone">(41) 99999-9999</string>
+    <string name="creditCard">Cartão de crédito</string>
+    <string name="debitCard">Cartão de débito</string>
+    <string name="paypal">PayPal</string>
+    <string name="active">Ativo</string>
+    <string name="save">Cadastrar</string>
+    <string name="site">WEBSITE</string>
+    <string name="sms">SMS</string>
+    <string name="url">Web site</string>
+</resources>
