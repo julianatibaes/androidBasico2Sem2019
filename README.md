@@ -34,7 +34,22 @@ Todos os projetos de exemplo trabalhados na disciplina.
 - Recycler View
 - Classe
 - Lista
-- Adapter Recycler View (próxima aula)
+- Item de lista (XML)
+
+## Fornecedores - parte 4
+- Gerenciador de Layout (Linear Layout Vertical)
+- EditText (Personal name, e-mail, phone)
+- CheckBox
+- Switch
+- Button
+- Spinner
+- TextView
+- Intent (passado dados de String para outra tela)
+- Intent (SMS, EMAIL, Telefonema, SITE)
+- Recycler View
+- Classe
+- Lista
+- Adapter Recycler View 
 - Item de lista (XML)
 
 ## List Model
