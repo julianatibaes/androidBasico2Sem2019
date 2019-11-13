@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Catálogo de Estrelas</string>
+    <string name="descricao">descrição</string>
+    <string name="distancia">distância</string>
+    <string name="tamanho">tamanho</string>
+    <string name="cor">cor</string>
+    <string name="salvar">salvar</string>
+    <string name="excluir">excluir</string>
+</resources>
