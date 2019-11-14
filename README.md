@@ -88,6 +88,26 @@ Todos os projetos de exemplo trabalhados na disciplina.
 - ViewModel
 - Start Activity For Result
 
+## Fornecedores - parte 7 - FINAL
+- Gerenciador de Layout (Linear Layout Vertical, Constraint Layout)
+- EditText (Personal name, e-mail, phone)
+- Float Action Button
+- Intent
+- Recycler View
+- Classe
+- Lista
+- Adapter Recycler View 
+- Item de lista (XML)
+- Banco de dados
+- DAO
+- Repository
+- ViewModel
+- Start Activity For Result
+-- CRUD - INSERT + UPDATE
+
+# Catalogo-estrelas
+- CRUD COMPLETO + BANCO DE DADOS SQLITE
+
 ## List Model
 - RecyclerView
 - Lista
